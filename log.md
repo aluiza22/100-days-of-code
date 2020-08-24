@@ -7,4 +7,4 @@
 **Thoughts** As I'm starting the challenge and a new phase, I'm excited and wanted to have something small that I could finish today. 
 
 **Link(s) to work**
-1. [Header component on CodeSandBox](https://codesandbox.io/s/bold-mclaren-jwtio)
+1. [Header component on CodeSandBox](https://codesandbox.io/s/header-component-1be5o)
