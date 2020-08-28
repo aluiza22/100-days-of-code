@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. [Future link to repository](https://github.com/aluiza22)
+
+### Day 4: August 28, Friday
+
+**Today's Progress**: Still struggling with the filte.. I'm studying and trying a few react tutorials to find the best way to update the project's listing, depending on the filter selected.
+
+**Thoughts** Finding it hard to understand exacly the flow, and was a little tired today. But it's part of the proccess.
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
