@@ -35,3 +35,12 @@
 
 **Link(s) to work**
 1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 5: August 31, Monday
+
+**Today's Progress**: Today I installed a router on my portfolio project, created the components, and updated the header with the router links. 
+
+**Thoughts** Needed to have something "done" for my motivation's sake.. now going back to the projects filter, wish me luck!
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
