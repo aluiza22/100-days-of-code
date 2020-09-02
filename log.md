@@ -53,3 +53,12 @@
 
 **Link(s) to work**
 1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 7: September 2, Wednesday
+
+**Today's Progress**: Read an article about CSS animations on SVG elements and decided to try it out. 
+
+**Thoughts** It was really fun! I always enjoy playing with css and exploring the visual world.
+
+**Link(s) to work**
+1. [Codepen piece](https://codepen.io/anadev22/full/KKzXZzW)
