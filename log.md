@@ -44,3 +44,12 @@
 
 **Link(s) to work**
 1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 6: September 1, Tuesday
+
+**Today's Progress**: Finally got to list all tags and years on the filter, but will need to improve these implementations someday. 
+
+**Thoughts** Sometimes trying to do things "the beautiful way" can be exhausting and you'll end up doing it "the easy way" because it works. It's fine, tomorrow you can go back and improve it (but you probably won't)
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
