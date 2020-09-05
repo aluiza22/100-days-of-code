@@ -58,7 +58,35 @@
 
 **Today's Progress**: Read an article about CSS animations on SVG elements and decided to try it out. 
 
-**Thoughts** It was really fun! I always enjoy playing with css and exploring the visual world.
+**Thoughts**: It was really fun! I always enjoy playing with css and exploring the visual world.
 
 **Link(s) to work**
 1. [Codepen piece](https://codepen.io/anadev22/full/KKzXZzW)
+
+### Day 8: September 3, Thursday
+
+**Today's Progress**: Created the visual concept and started a new project.
+
+**Thoughts**: Trying to implement a drag and drop, but, as always, I choose things that are not that simple.. so, let's study! 
+
+**Link(s) to work**
+1. [Meal prep app repository](https://github.com/aluiza22/meal-prep-app)
+
+### Day 9: September 4, Friday
+
+**Today's Progress**: Implemented a custom scrollbar
+
+**Thoughts**: Friday mood! Didn't want to deal with my project's problems, so went back to playing with CSS...
+
+**Link(s) to work**
+1. [Codepen piece](https://codepen.io/anadev22/pen/MWyOLVz)
+
+### Day 10: September 5, Saturday
+
+**Today's Progress**: After a few days avoiding the errors on my portfolio's filter, today I was ready to struggle the whole afternoon trying to figure it out.
+Surprisingly, it took me 10min to solve it. The filter is filtering. 
+
+**Thoughts**: Sometimes all you need is some time away.
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
