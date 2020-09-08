@@ -90,3 +90,12 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 11: September 8, Tuesday
+
+**Today's Progress**: Today I started to implement the components of the Experience part of my portfolio. Also did some lessons from a React course I bought a while ago on Udemy.
+
+**Thoughts**: Need to focus and define the scope of the project, it's hard to develop and decide things on the go.
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
