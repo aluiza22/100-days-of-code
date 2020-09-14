@@ -99,3 +99,36 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 12: September 9, Wednesday
+
+**Today's Progress**: Read a post explaining an implementation of the Snake Game, so I thought it would be cool to build something with that!
+
+**Thoughts**: Cool things help with motivation!
+
+**Link(s) to work**
+1. [Simpson's Snake Game CodeSandBox](https://codepen.io/anadev22/full/GRZxZRa)
+
+### Day 13: September 10, Thursday
+
+**Today's Progress**: Struggling with the drag and drop again, but getting forward!
+
+**Thoughts**: No pain, no gain
+
+**Link(s) to work**
+1. [Meal prep app repository](https://github.com/aluiza22/meal-prep-app)
+
+### Day 14: September 11, Friday
+
+**Today's Progress**: Today I didn't have much time Grimacing face so I used it doing code challenges.
+
+**Thoughts**: it's always good to remember things we don't use every day!
+
+### Day 15: September 14, Monday
+
+**Today's Progress**: After watching the great @kentcdodds' Beginners Guide to React, I practiced a little to fix some of the concepts I wasn't that familiar. Also continued working on my portfolio!
+
+**Thoughts**: studying is as important as practicing
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
