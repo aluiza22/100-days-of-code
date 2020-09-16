@@ -132,3 +132,21 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 16: September 15, Tuesday
+
+**Today's Progress**: Worked on the layout of my portfolio today, making cool things with CSS! 
+
+**Thoughts**: Gotta say that's what I love!
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/pen/MWyXLOy)
+
+### Day 17: September 16, Wednesday
+
+**Today's Progress**: Partially finished the CSS piece I was doing, tomorrow I'll put it together with the portfolio app!
+
+**Thoughts**: things are never finished, I know
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/pen/MWyXLOy)
