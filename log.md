@@ -150,3 +150,12 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Codepen Piece](https://codepen.io/anadev22/pen/MWyXLOy)
+
+### Day 18: September 17, Thursday
+
+**Today's Progress**: Updated the layout of my portfolio project with the new pieces and implemented a new page
+
+**Thoughts**: this shit is looking damn gooooooooood *-*
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
