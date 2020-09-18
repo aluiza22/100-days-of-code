@@ -159,3 +159,12 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 19: September 18, Friday
+
+**Today's Progress**: Today I started working on the Skills section of my portfolio
+
+**Thoughts**: still focusing on css, i know
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
