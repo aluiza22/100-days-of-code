@@ -168,3 +168,60 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 20: September 21, Monday
+
+**Today's Progress**: Read some articles and watched some episodes of the amazing series Designing in the Browser by Una! Got excited to try a few things so I started another small project.
+
+**Thoughts**: another one lol
+
+**Link(s) to work**
+1. [CodePen piece](https://codepen.io/anadev22/pen/jOqQZOa)
+
+### Day 21: September 22, Tuesday
+
+**Today's Progress**: Today I worked on my latest side project and helped a friend to improve the CSS of a website she's developing
+
+**Thoughts**: really enjoyed helping others
+
+**Link(s) to work**
+1. [CodePen piece](https://codepen.io/anadev22/pen/jOqQZOa)
+
+### Day 22: September 23, Wednesday
+
+**Today's Progress**: Obsessed with Wes Bos's course Master Gatsby! - favorite discovery of the day: CSS function clamp()
+
+**Thoughts**: It's fun and I'm learning so much!!
+
+
+### Day 23: September 24, Thursday
+
+**Today's Progress**: Worked on my portfolio today, fixed some bugs and tried some layout options
+
+**Thoughts**: still focusing on css, i know
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 24: September 25, Friday
+
+**Today's Progress**: Finished modules 4 and 5 of the Master Gatsby course! 
+
+**Thoughts**: Going slowly since I like to pause, test things, and take notes all the time
+
+
+### Day 25: September 28, Monday
+
+**Today's Progress**: I studied some JS concepts and started the next module of the course
+
+**Thoughts**: Not a good day!
+
+
+### Day 26: September 30, Wednesday
+
+**Today's Progress**: Implemented a timeline component to show my professional and academic experiences on my portfolio
+
+**Thoughts**: it's going great!
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
