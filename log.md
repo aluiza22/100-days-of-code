@@ -225,3 +225,30 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 27: October 1, Thursday
+
+**Today's Progress**: Finished module #7 of the Master Gatsby course and started a series of daily CSS images in October, and yes the theme is Halloween
+
+**Thoughts**: I'm really enjoying implementing my version before seeing the solution of some parts of the course.
+
+**Link(s) to work**
+1. [Codepen Colection](https://codepen.io/collection/DbMpjE)
+
+### Day 28: October 2, Friday
+
+**Today's Progress**: Read some http://dev.to posts and got inspired to revive my blog. 
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. [Blog](http://frontmap.anadev.com.br/)
+
+### Day 29: October 5, Monday
+
+**Today's Progress**: Another module from the Master Gatsby course done! Still missing today's image, but made Saturday's and Sunday's ones.
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. [Sunday's css image](https://codepen.io/anadev22/pen/OJXLmzv)
