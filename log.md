@@ -252,3 +252,12 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Sunday's css image](https://codepen.io/anadev22/pen/OJXLmzv)
+
+### Day 30: October 6, Tuesday
+
+**Today's Progress**: After some struggle, finished the timeline component of my portfolio
+
+**Thoughts**: Planning to finish it next week!
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
