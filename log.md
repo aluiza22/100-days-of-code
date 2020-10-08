@@ -261,3 +261,22 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 31: October 7, Wednesday
+
+**Today's Progress**: Updated my projects list and fixed some bugs on old side projects so I can display them on my portfolio. Also played with images on today's Halloween daily CSS image.
+
+**Thoughts**: having fun with the images but focusing on the portfolio
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+2. [Codepen Piece](https://codepen.io/anadev22/pen/ExyxLyQ)
+
+### Day 32: October 8, Thursday
+
+**Today's Progress**: Busy day, but spend a good time making today's dancing CSS image!
+
+**Thoughts**: halloween is really inspiring me lol
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/pen/OJXPXgw)
