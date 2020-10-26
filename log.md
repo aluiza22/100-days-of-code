@@ -280,3 +280,84 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Codepen Piece](https://codepen.io/anadev22/pen/OJXPXgw)
+
+### Day 33: October 9, Friday
+
+**Today's Progress**: finished another module of the Master Gatsby course!
+
+### Day 34: October 12, Monday
+
+**Today's Progress**:  I'm focusing on my portfolio, but I'm also up to date with the Halloween CSS images
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+2. [Codepen Piece](https://codepen.io/anadev22/full/vYKEjKV)
+
+### Day 35: October 13, Tuesday
+
+**Today's Progress**:  Done with another course module
+
+### Day 36: October 14, Wednesday
+
+**Today's Progress**:  Finished the blog part of my portfolio! 
+
+**Thoughts**: Maybe it'll be done by the end of the week
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 37: October 15, Thursday
+
+**Today's Progress**:  React Summit + css images
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/full/YzWqVJd)
+
+### Day 38: October 16, Friday
+
+**Today's Progress**:  React Summit + css images
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/full/YzWqVJd)
+
+### Day 39: October 19, Monday
+
+**Today's Progress**:  This week I am focused on finishing my portfolio!
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 40: October 20, Tuesday
+
+**Today's Progress**:  Last touches on my portfolio!
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 41: October 21, Wednesday
+
+**Today's Progress**:  Finished my portfolio!
+
+**Link(s) to work**
+1. [Portfolio repository](https://github.com/aluiza22/react-portfolio)
+
+### Day 42: October 22, Thursday
+
+**Today's Progress**:  Finished more two modules of the Master Gastby course
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/pen/WNxRRGW)
+
+### Day 43: October 23, Friday
+
+**Today's Progress**:  Busy day, only did the daily CSS image
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/pen/wvWgJJM)
+
+### Day 44: October 23, Friday
+
+**Today's Progress**:  Finished the Master Gatsby course! Also did some daily CSS image
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/pen/BazWxgK)
