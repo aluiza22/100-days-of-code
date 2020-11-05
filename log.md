@@ -355,9 +355,66 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 **Link(s) to work**
 1. [Codepen Piece](https://codepen.io/anadev22/pen/wvWgJJM)
 
-### Day 44: October 23, Friday
+### Day 44: October 26, Monday
 
 **Today's Progress**:  Finished the Master Gatsby course! Also did some daily CSS image
 
 **Link(s) to work**
 1. [Codepen Piece](https://codepen.io/anadev22/pen/BazWxgK)
+
+### Day 45: October 27, Tuesday
+
+**Today's Progress**:  today's daily CSS image was inspired by today's Halloween costume
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/pen/jOrwMVg)
+
+### Day 46: October 28, Wednesday
+
+**Today's Progress**:  Resurrected my Routine Planner project and found out it was more advanced than I remembered! Hopefully, I'll get to fix some bugs and finish it in a few days 
+
+**Link(s) to work**
+1. [Planner Repository](https://github.com/aluiza22/routine_planner)
+
+### Day 47: October 29, Thursday
+
+**Today's Progress**:  Daily CSS images continue matching the costumes of Halloween week
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/pen/jOrZbYq)
+
+### Day 48: October 30, Friday
+
+**Today's Progress**:  I finished the last daily Haloween CSS images, watched some tutorials
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/pen/wvWjVBb)
+
+### Day 49: November 2, Monday
+
+**Today's Progress**:  worked on a ukulele tuner
+
+**Link(s) to work**
+1. [Codepen Piece](https://codepen.io/anadev22/pen/pobLWjK)
+
+### Day 50: November 3, Tuesday
+
+**Today's Progress**:  Today I finished resolving the last existing bugs on my Routine Planner project and started implementing two new features
+
+**Link(s) to work**
+1. [Planner Repository](https://github.com/aluiza22/routine_planner)
+
+### Day 51: November 4, Wednesday
+
+**Today's Progress**:  Worked on the planner and made a changing color clock
+
+**Link(s) to work**
+1. [Planner Repository](https://github.com/aluiza22/routine_planner)
+2. [Clock](https://codepen.io/anadev22/details/JjKZrEx)
+
+### Day 52: November 5, Thursday
+
+**Today's Progress**:  Finished the first version of my Week Planner project!
+
+**Link(s) to work**
+1. [Planner Repository](https://github.com/aluiza22/routine_planner)
