@@ -418,3 +418,59 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Planner Repository](https://github.com/aluiza22/routine_planner)
+
+### Day 53: November 6, Friday
+
+**Today's Progress**:  Published the Week Planner and made some ajustments
+
+**Link(s) to work**
+1. [Planner Repository](https://github.com/aluiza22/routine_planner)
+
+### Day 54: November 9, Monday
+
+**Today's Progress**:  Worked on Caio's project RemoveBg and started searching on how to do the second part of my portfolio project, the backend.
+
+**Link(s) to work**
+1. [RemoveBg Repository](https://github.com/caiocvsilva/removeBG)
+
+### Day 55: November 10, Tuesday
+
+**Today's Progress**:  Started to wrote a blog post about my portfolio project and finished the frontend part of Caio's project RemoveBg
+
+**Link(s) to work**
+1. [Blog post](https://frontmap.anadev.com.br/the-portfolio/)
+2. [RemoveBg Repository](https://github.com/caiocvsilva/removeBG)
+
+### Day 56: November 11, Wednesday
+
+**Today's Progress**:  Finished the blog post
+**Thoughts**: ETA is coming closer, lots of rain and wind, so I spent the rest of the day anxious and worrying about it
+
+**Link(s) to work**
+1. [Blog post](https://frontmap.anadev.com.br/the-portfolio/)
+
+### Day 57: November 12, Thursday
+
+**Today's Progress**: Implemented and reliased a new version of the Week Planner with a drag and drop funcionality
+**Thoughts**: Really happy for being able to achieve what I wanted with drag and drop
+
+**Link(s) to work**
+1. [Planner Repository](https://github.com/aluiza22/routine_planner)
+
+### Day 58: November 13, Friday
+
+**Today's Progress**: Read some posts, but the anxiety from these past few days came hard today .-.
+
+### Day 59: November 16, Monday
+
+**Today's Progress**: Started to implement the first backend part of my portfolio project using express and graphql
+
+**Link(s) to work**
+1. [Portfolio Backend Repository](https://github.com/aluiza22/express-portfolio-back)
+
+### Day 60: November 17, Tuesday
+
+**Today's Progress**: Still working on the backend part of my portfolio project, got to create the mongodb database, put the express+graphql up and running, with the Projects nodes to query, create, delete and update.
+
+**Link(s) to work**
+1. [Portfolio Backend Repository](https://github.com/aluiza22/express-portfolio-back)
