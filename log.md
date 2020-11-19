@@ -474,3 +474,17 @@ Surprisingly, it took me 10min to solve it. The filter is filtering.
 
 **Link(s) to work**
 1. [Portfolio Backend Repository](https://github.com/aluiza22/express-portfolio-back)
+
+### Day 61: November 18, Wednesday
+
+**Today's Progress**: Struggling a litte with the backend part of my portfolio project, trying to put it online to use on the frontend part, but not getting it right with my hosting options.
+
+**Link(s) to work**
+1. [Portfolio Backend Repository](https://github.com/aluiza22/express-portfolio-back)
+
+### Day 62: November 19, Thursday
+
+**Today's Progress**: Decided to leave the online part for the future, implemented the Experiences node to query, create, delete and update.
+
+**Link(s) to work**
+1. [Portfolio Backend Repository](https://github.com/aluiza22/express-portfolio-back)
